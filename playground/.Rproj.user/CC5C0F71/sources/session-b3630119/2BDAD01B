@@ -1,0 +1,27 @@
+{
+    "id": "2BDAD01B",
+    "path": "~/r_projects/playground/workbench_chat.R",
+    "project_path": "workbench_chat.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1734997974726.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "11,24",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1735001401,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1735001401325,
+    "read_only": false,
+    "read_only_alternatives": []
+}

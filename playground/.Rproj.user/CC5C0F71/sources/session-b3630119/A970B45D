@@ -1,0 +1,28 @@
+{
+    "id": "A970B45D",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1734998375408.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "dfab5cc0cafa40f2b5404770868899fa",
+        "name": "relevant_nullspace_dict_dist",
+        "title": "relevant_nullspace_dict_dist",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 4618441417868443648,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1734998375408,
+    "read_only": false,
+    "read_only_alternatives": []
+}
