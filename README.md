@@ -13,5 +13,5 @@ Tabletop_game_Finans.pdf: Contains results and explanation of the calculations.
 In code_and_plots:  
 bond_calculation_code.R: Contains code for calculating which bonds to buy.  
 ground_calculation_code.R: Contains code for calculating which grounds to buy and whether or not to build houses.
-
+rules.pdf: More detailed rules of the game in Swedish
 
