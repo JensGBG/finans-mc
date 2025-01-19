@@ -18,7 +18,7 @@ for (die_1 in 1:6){
   }
 }
 e_dies <- e_dies*p
-barplot(e_dies, names.arg = seq_along(e_dies), main="Store obligation")
+barplot(e_dies, names.arg = seq_along(e_dies), main="\"Big\" bond", col = 'darkblue')
 grid(lwd=1, col="blue")
 
 # Small win
@@ -41,5 +41,5 @@ for (die_1 in 1:6){
   }
 }
 e_dies <- e_dies*p
-barplot(e_dies, names.arg = seq_along(e_dies), main="Lille obligation")
+barplot(e_dies, names.arg = seq_along(e_dies), main="\"Small\" bond", col = 'darkblue')
 grid(lwd=1, col="blue")
